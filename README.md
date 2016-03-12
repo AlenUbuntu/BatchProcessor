@@ -4,7 +4,7 @@ This software is a Platform-Independent Java-based batch processor utilizing xml
 
 # Important Note:
 
-This program is tested using JDK1.8.0_45. If you are using a different JDK, make sure to pre-compile the source codes since the binary executable class file is invalid in this case.
+This program is tested using Java 1.8.0_45. If you are using a different Jdk, make sure to pre-compile the source codes since the bytecode executable class file is invalid in this case.
 
 # Description:
 	
