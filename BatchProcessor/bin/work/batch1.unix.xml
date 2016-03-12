@@ -1,0 +1,5 @@
+<batch>
+	<wd id='swd1' path="work" />
+	<file id="file1" path="lsout.txt" />
+	<cmd id="cmd1" path="ls" out='file1' />
+</batch>

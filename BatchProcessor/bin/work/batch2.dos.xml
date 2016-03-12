@@ -1,0 +1,8 @@
+<batch>
+	<wd id='swd1' path="work" />
+	<file id="file1" path="randomwords.txt" />
+	<file id="file2" path="sortedwords.txt" />
+	<cmd id="cmd1" path="sort" in='file1' out='file2' />
+	<file id="file3" path="reversesort.txt" />
+	<cmd id="cmd2" path="sort" args='/R' in='file1' out='file3' />
+</batch>

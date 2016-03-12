@@ -1,0 +1,3 @@
+ProcessException: Unable to locate OUT FileCommand with id: filee2
+	at BatchProcessor.executeBatch(BatchProcessor.java:82)
+	at BatchProcessor.main(BatchProcessor.java:26)

@@ -1,0 +1,5 @@
+<batch>
+	<wd id='swd1' path="work" />
+	<file id="file1" path="dirout.txt" />
+	<cmd id="cmd1" path="cmd" args='/c dir' out='file1' />
+</batch>
